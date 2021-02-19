@@ -1071,3 +1071,83 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.02.19-14.54.46:462][458]LogLinker: Warning: Failed to load '/Game/Blueprints/Visual_Commands': Can't find file.
 [2021.02.19-14.54.46:462][458]LogLinker: Warning: Failed to load '/Game/Blueprints/Visual_Commands': Can't find file.
 [2021.02.19-14.54.46:462][458]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Visual_Commands.Visual_Commands'
+[2021.02.19-14.56.20:115][ 64]LogContentBrowser: Deferred new asset file creation: Default_Map2
+[2021.02.19-14.56.20:123][ 64]LogContentBrowser: Creating deferred item: Default_Map2
+[2021.02.19-14.56.20:817][148]LogContentBrowser: Attempting asset rename: Default_Map2 -> Default_Map2
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_42) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_41) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_40) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_39) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_38) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_37) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_36) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_19) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_14) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_13) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_2) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_1) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_0) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_23) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_22) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_24) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_21) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_20) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_25) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_18) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_26) Not registered. Aborting.
+[2021.02.19-14.56.21:720][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_17) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_16) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_27) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_15) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_28) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_12) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_29) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_11) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_30) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_10) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_31) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_9) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_8) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_32) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_7) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_33) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_34) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_6) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_35) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_5) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_4) Not registered. Aborting.
+[2021.02.19-14.56.21:721][148]LogActorComponent: UnregisterComponent: (/Game/Map/Default_Map2.Default_Map2:PersistentLevel.Landscape_0.SplineMeshComponent_3) Not registered. Aborting.
+[2021.02.19-14.56.21:831][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Default_Map2" FILE="../../../../../../Users/Ali/Documents/Unreal Projects/Viking_Habitat/Content/Map/Default_Map2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.19-14.56.21:873][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.02.19-14.56.22:363][148]LogSavePackage: Moving '../../../../../../Users/Ali/Documents/Unreal Projects/Viking_Habitat/Saved/Default_Map25A91B1E74AAE0605FE97A19463EF2DD5.tmp' to '../../../../../../Users/Ali/Documents/Unreal Projects/Viking_Habitat/Content/Map/Default_Map2.umap'
+[2021.02.19-14.56.23:473][148]LogFileHelpers: Saving map 'Default_Map2' took 1.642
+[2021.02.19-14.56.23:668][148]LogContentBrowser: End creating deferred item Default_Map2
+[2021.02.19-14.56.23:671][148]AssetCheck: New page: Asset Save: Default_Map2
+[2021.02.19-14.56.23:671][148]LogContentValidation: Display: Validating World /Game/Map/Default_Map2.Default_Map2
+[2021.02.19-14.56.36:699][655]Cmd: DELETE
+[2021.02.19-14.56.36:699][655]Cmd: ACTOR DELETE
+[2021.02.19-14.56.36:705][655]LogEditorActor: Deleted Actor: BP_Visual_Cmds_C
+[2021.02.19-14.56.36:711][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.02.19-14.56.36:713][655]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.02.19-14.56.45:590][702]LogObjectTools: Deleting 1 worlds: /Game/Map/Default_Map1.Default_Map1
+[2021.02.19-14.56.45:590][702]LogObjectTools: Currently 2 active worlds: /Game/Map/Default_Map.Default_Map, /Engine/Transient.World_0
+[2021.02.19-14.56.45:596][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.02.19-14.56.47:247][702]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.19-14.56.47:277][702]LogWorld: UWorld::CleanupWorld for Default_Map1, bSessionEnded=true, bCleanupResources=true
+[2021.02.19-14.56.47:278][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.19-14.56.47:556][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.02.19-14.56.47:567][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.02.19-14.56.47:572][702]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.02.19-14.56.47:736][702]SourceControl: Error: Updated 0 paths from the index
+[2021.02.19-14.56.48:132][702]SourceControl: rm 'Content/Map/Default_Map1.umap'
+[2021.02.19-14.56.55:465][568]LogContentBrowser: Attempting asset rename: Default_Map2 -> Blockout_Backup
+[2021.02.19-14.56.56:332][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.02.19-14.56.56:822][568]LogSavePackage: Moving '../../../../../../Users/Ali/Documents/Unreal Projects/Viking_Habitat/Saved/Blockout_Backup7028C7B04C57201B4C342EBA423457CB.tmp' to '../../../../../../Users/Ali/Documents/Unreal Projects/Viking_Habitat/Content/Map/Blockout_Backup.umap'
+[2021.02.19-14.56.57:907][568]LogFileHelpers: Saving map 'Blockout_Backup' took 1.593
+[2021.02.19-14.56.58:138][568]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Map/Default_Map2.Default_Map2'
+[2021.02.19-14.56.58:166][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.02.19-14.56.58:178][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.19-14.56.58:183][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.02.19-14.56.58:615][568]SourceControl: rm 'Content/Map/Default_Map2.umap'
+[2021.02.19-14.56.58:698][568]AssetCheck: New page: Asset Save: Blockout_Backup
+[2021.02.19-14.56.58:698][568]LogContentValidation: Display: Validating World /Game/Map/Blockout_Backup.Blockout_Backup
