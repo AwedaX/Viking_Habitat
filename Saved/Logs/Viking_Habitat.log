@@ -1068,3 +1068,6 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.02.19-14.51.29:349][ 49]LogContentValidation: Display: Validating StaticMesh /Game/Map/Blockout_Meshes/character_placeholder.character_placeholder
 [2021.02.19-14.51.29:349][ 49]LogContentValidation: Display: Validating StaticMesh /Game/Map/Blockout_Meshes/SM_Rock.SM_Rock
 [2021.02.19-14.51.29:349][ 49]LogContentValidation: Display: Validating World /Game/Map/Default_Map.Default_Map
+[2021.02.19-14.54.46:462][458]LogLinker: Warning: Failed to load '/Game/Blueprints/Visual_Commands': Can't find file.
+[2021.02.19-14.54.46:462][458]LogLinker: Warning: Failed to load '/Game/Blueprints/Visual_Commands': Can't find file.
+[2021.02.19-14.54.46:462][458]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Visual_Commands.Visual_Commands'
